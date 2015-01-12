@@ -63,7 +63,7 @@ public class MainActivity extends ActionBarActivity {
                 .build();
 
         Intent intent = new Intent(Intent.ACTION_VIEW);
-        Intent.setData(geolocation);
+        intent.setData(geolocation);
     }
 
     /**

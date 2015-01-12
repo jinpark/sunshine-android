@@ -6,4 +6,12 @@
         android:title="@string/action_refresh"
         android:orderInCategory="50"
         app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/action_share"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        />
 </menu>

@@ -5,7 +5,7 @@
         <item>@string/pref_units_label_imperial</item>
     </string-array>
 
-    <string-array name="pref_unit_entries">
+    <string-array name="pref_unit_values">
         <item>@string/pref_units_default</item>
         <item>@string/pref_units_imperial</item>
     </string-array>
